@@ -4,9 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <br>
-  "- Email : ThangkwaSuttayamuk@gmail.com"
+  - Email : ThangkwaSuttayamuk@gmail.com
 <br>
-  "- Linkedin : "
+  - Linkedin : 
 <a href="https://www.linkedin.com/in/pawida-suttayamuk-409377255/" rel="nofollow">Pawida Suttayamuk</a>
 
 
