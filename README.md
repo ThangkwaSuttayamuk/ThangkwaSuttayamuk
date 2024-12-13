@@ -15,7 +15,7 @@
 
 <h3 align="left">Please find my Overview Resume below 😄 </h3>
 
-<img src="https://github.com/user-attachments/assets/a8a1a6b3-48b9-4298-afa9-51f9b92c4e3a"> 
+<img src="https://github.com/user-attachments/assets/394e1b47-db39-4b7d-bdd6-028fb4ea09d0"> 
 
 
 
