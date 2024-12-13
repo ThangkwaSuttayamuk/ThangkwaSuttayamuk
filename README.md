@@ -15,7 +15,7 @@
 
 <h3 align="left">Please find my Overview Resume below 😄 </h3>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69240438/317989661-912984e3-bfee-44b6-b52f-31a53dac9c0c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240329T075705Z&X-Amz-Expires=300&X-Amz-Signature=612cc4b08e6408da18abc99b928d9f6ee6fcacc06cc40fe8539114f018ff4852&X-Amz-SignedHeaders=host&actor_id=69240438&key_id=0&repo_id=587648168"> 
+<img src="https://github.com/user-attachments/assets/a8a1a6b3-48b9-4298-afa9-51f9b92c4e3a"> 
 
 
 
